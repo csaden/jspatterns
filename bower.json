@@ -1,0 +1,23 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "authors": [
+    "Chris Saden <chris.saden@udacity.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.22"
+  }
+}

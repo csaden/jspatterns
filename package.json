@@ -1,0 +1,11 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "code for the Put Design Patterns into Practice course from Tuts+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Saden csaden@gmail.com",
+  "license": "MIT"
+}
